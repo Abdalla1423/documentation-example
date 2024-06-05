@@ -9,6 +9,7 @@ Let's make a list (empty surrounding lines required):
 
   - nested item 1
   - nested item 2
+  - nested item 3
 
 - item 2
 - item 3
